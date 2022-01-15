@@ -16,7 +16,7 @@
   - Voltage Conversion (1, Power Eng.)
   - Programming (1)
   - PCB designs (1)
-  - Soldering (1)
+  - Soldering (0-1)
 - Mostly learner-oriented with personalized explanations
 - Instructor(s) provide physical/software resources and support, so there is no "proper lecture note"
 - We all learn together, so there might be struggles; there is no "step-by-step guide"
