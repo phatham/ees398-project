@@ -63,7 +63,7 @@
 ## Programming
 
 * [Adding Boards to Arduino Program](https://support.arduino.cc/hc/en-us/articles/360016119519-How-to-add-boards-in-the-board-manager)
-* [Installing Library](https://wiki.seeedstudio.com/How_to_install_Arduino_Library/)
+* [Installing a Library](https://wiki.seeedstudio.com/How_to_install_Arduino_Library/)
 * [ESP8266 Board](https://github.com/esp8266/Arduino)
 * [OLED Library](https://github.com/adafruit/Adafruit_SSD1306)
 * [GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
