@@ -1,3 +1,14 @@
+# Table of Contents
+
+* [Goal](#goal)
+
+* [Possible Topics](#possible-topics)
+* [Learning Methods](#learning-methods)
+* [Initial Work Plan](#initial-work-plan)
+* [Datasheets & References](#datasheets--references)
+* [Summary of Week 1](#summary-of-week-1)
+* [Work Plan for Week 2](#work-plan-for-week-2)
+
 # Goal
 
 * Make a prototype (complete PCB) of a certain product.
@@ -21,7 +32,7 @@
 - Instructor(s) provide physical/software resources and support, so there is no "proper lecture note"
 - We all learn together, so there might be struggles; there is no "step-by-step guide"
 
-# Work Plan
+# Initial Work Plan
 
 * Week 1: Sensors Communication, Actuator Communication, and PCB Design should be finished
   * Sensors: sensors connection and study their principles
@@ -127,7 +138,7 @@ The learners faced with struggles as expected:
   * One learner asked how much should we read a datasheet, and the answer was "as much as you think it is sufficient." However, after realizing, the answer should be "as much as you can get that thing to work, within their limits."
   * The basic pulsing function of the dust sensor was missed when reading the datasheet.
 
-These problems confirm the instructor's personal thought that this is an effective learning method. If the learners simply copy and paste the codes, or follow the visualized connections, they are not facing with the challenges and will not push them forward (no eager to learn). This is like learning how to swim by watching videos without actually "swimming." The class (aimed as a safe-zone that failures can happen) is like creating a safe "swimming pool" with lifeguards and let them dive in. After a few "drownings," at least some of the learners should get the "eager to learn." One learner asked if he can take something back to learn, which is a good thing.
+These problems confirm the instructor's personal thought that this is an effective learning method. If the learners simply copy and paste the codes, or follow the visualized connections, they are not facing with the challenges and will not push them forward (no eager to learn). This is like learning how to swim by watching videos without actually "swimming." The class here is like creating a safe "swimming pool" with lifeguards and let them dive in. After a few "drownings," at least some of the learners should get the "eager to learn." One learner asked if he can take something back to learn, which is a good thing.
 
 ## Duties
 
@@ -149,4 +160,9 @@ These problems confirm the instructor's personal thought that this is an effecti
 
 # Work Plan for Week 2
 
-TODO
+* Datasheet reading tutorial
+* Combine all sensors into a board
+* Finish testing of all sensors (dust & temperature sensor) and actuators (motor & buzzer)
+* Finish PCB design
+* Prepare presentations for Week 3
+
